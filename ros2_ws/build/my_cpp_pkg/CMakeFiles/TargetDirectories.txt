@@ -1,0 +1,10 @@
+/home/salo/Desktop/mad-labz/ros2_ws/build/my_cpp_pkg/CMakeFiles/uninstall.dir
+/home/salo/Desktop/mad-labz/ros2_ws/build/my_cpp_pkg/CMakeFiles/my_cpp_pkg_uninstall.dir
+/home/salo/Desktop/mad-labz/ros2_ws/build/my_cpp_pkg/CMakeFiles/cpp_node.dir
+/home/salo/Desktop/mad-labz/ros2_ws/build/my_cpp_pkg/CMakeFiles/test.dir
+/home/salo/Desktop/mad-labz/ros2_ws/build/my_cpp_pkg/CMakeFiles/edit_cache.dir
+/home/salo/Desktop/mad-labz/ros2_ws/build/my_cpp_pkg/CMakeFiles/rebuild_cache.dir
+/home/salo/Desktop/mad-labz/ros2_ws/build/my_cpp_pkg/CMakeFiles/list_install_components.dir
+/home/salo/Desktop/mad-labz/ros2_ws/build/my_cpp_pkg/CMakeFiles/install.dir
+/home/salo/Desktop/mad-labz/ros2_ws/build/my_cpp_pkg/CMakeFiles/install/local.dir
+/home/salo/Desktop/mad-labz/ros2_ws/build/my_cpp_pkg/CMakeFiles/install/strip.dir

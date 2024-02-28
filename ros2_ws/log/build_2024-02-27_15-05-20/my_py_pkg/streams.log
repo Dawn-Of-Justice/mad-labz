@@ -1,0 +1,24 @@
+[0.753s] Invoking command in '/home/salo/Desktop/mad-labz/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/prefix_override:/home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/build install --record /home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed
+[0.954s] running egg_info
+[0.954s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[0.955s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[0.955s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[0.955s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[0.955s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[0.956s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.957s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.957s] running build
+[0.957s] running build_py
+[0.957s] copying my_py_pkg/my_first_node.py -> /home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[0.958s] running install
+[0.958s] running install_lib
+[0.958s] copying /home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/my_first_node.py -> /home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.959s] byte-compiling /home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py to my_first_node.cpython-310.pyc
+[0.959s] running install_data
+[0.959s] running install_egg_info
+[0.960s] removing '/home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.961s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[0.962s] running install_scripts
+[0.979s] Installing py_node script to /home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.979s] writing list of installed files to '/home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/install.log'
+[1.008s] Invoked command in '/home/salo/Desktop/mad-labz/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/prefix_override:/home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/build install --record /home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed
