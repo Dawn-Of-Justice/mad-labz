@@ -1,0 +1,19 @@
+[0.795s] Invoking command in '/home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/prefix_override:/home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/build --no-deps install_data
+[1.018s] running develop
+[1.183s] running egg_info
+[1.183s] writing my_py_pkg.egg-info/PKG-INFO
+[1.183s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.184s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.184s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.184s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.184s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.186s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.211s] running build_ext
+[1.211s] Creating /home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.212s] Installing py_node script to /home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.212s] Installing robot_news_station script to /home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.212s] Installing smartphone script to /home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.212s] 
+[1.212s] Installed /home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg
+[1.212s] running install_data
+[1.241s] Invoked command in '/home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/prefix_override:/home/salo/Desktop/mad-labz/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/salo/Desktop/mad-labz/ros2_ws/build/my_py_pkg/build --no-deps install_data
